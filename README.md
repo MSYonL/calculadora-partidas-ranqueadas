@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./sky.gif" alt="Demonstração" width="400">
 </p>
-# 🎮 Calculadora de Partidas Ranqueadas
+ 🎮 Calculadora de Partidas Ranqueadas
 
 Este é o segundo desafio de projeto do curso de Lógica de Programação da **DIO (Digital Innovation One)**. O objetivo foi criar uma lógica funcional para classificar o nível de um herói com base no seu saldo de vitórias.
 
