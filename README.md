@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./sky.gif" alt="Demonstração" width="400">
+  <img src="./src/img/sky.gif" alt="Demonstração" width="400">
 </p>
  🎮 Calculadora de Partidas Ranqueadas
 
